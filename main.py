@@ -93,3 +93,4 @@ print(all_records())
 
 print("-" * 65, "\n\n")
 
+#update_balance("timbob@example.com", 100.0)
